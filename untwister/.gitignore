@@ -1,0 +1,33 @@
+# Object files
+*.o
+*.ko
+
+# Libraries
+*.lib
+*.a
+*.d
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.py
+*.pyc
+# Deleted files
+*~
+
+# clang dirs
+untwister.dSYM/
+untwister.dSYM/*
+
+#Program executables
+untwister
+untwister_tests
+
+#git files
+*.orig

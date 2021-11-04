@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.dataScience.jupyterServerURI": "local",
+		"terminal.integrated.cwd": "C:\\_Workspace\\lotto",
+		"python.dataScience.notebookFileRoot": "C:\\_Workspace\\lotto",
+		"cSpell.enabled": false,
+		"cSpell.language": "en",
+	}
+}
